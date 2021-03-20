@@ -1,2 +1,2 @@
-# classical_entanglement
+# Classical Entanglement in Polarization Metrology
 PH202 Course Project
